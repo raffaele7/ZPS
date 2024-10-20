@@ -9,7 +9,7 @@ For generating the corresponding mask, trained nnU-Net models can be downloaded 
 To set up the nnU-Net environment, please consider the original repository: https://github.com/MIC-DKFZ/nnUNet.
 
 
-## Citation
+## Citation (EANS2024 conference abstract)
 Raffaele Da Mutten, Olivier Zanier, Massimo Bottini, Yves Baumann, Olga Ciobanu-Caraus, Luca Regli, Carlo Serra, Victor Staartjes,
 Automatic Grading of the Zurich Pituitary Score: Using Semantic Segmentation and a Seed-Growing Algorithm,
 Brain and Spine,
