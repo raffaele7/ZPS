@@ -21,6 +21,8 @@ https://github.com/MIC-DKFZ/nnUNet
 
 The Pituitary GUI provides a focused workflow for selecting a pituitary MRI study, running the task-local nnU-Net segmentation model, and reviewing the resulting adenoma mask before ZPS grading.
 
+It is available here: https://owncloud.damutten.ch/s/agXBIRGZuzZsII8
+
 ![Pituitary GUI](pituitary_2.png)
 
 ## Citations
