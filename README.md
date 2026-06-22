@@ -24,7 +24,6 @@ The Pituitary GUI provides a comprehensive, user-friendly workflow designed for 
 - **Study Selection**: Easily browse and select pituitary MRI studies from your local file system
 - **Automated Segmentation**: Automatically runs the task-local nnU-Net segmentation model to identify and segment the pituitary adenoma and cavernous carotid artery segments
 - **Interactive Review**: Provides an intuitive interface for reviewing and validating the resulting adenoma mask before proceeding to ZPS grading
-- **Integrated Scoring**: Seamlessly generates the Zurich Pituitary Score (ZPS) based on the validated segmentation
 
 The GUI eliminates the need to manually run scripts, making it accessible for clinicians without programming expertise. It is available here:
 
@@ -46,11 +45,3 @@ Da Mutten R, Zanier O, Ciobanu-Caraus O, Voglis S, Hugelshofer M, Pangalu A, Reg
 
 This software is provided under the **Academic Non-commercial Use License**. For full details, please see [LICENSE.txt](LICENSE.txt).
 
-**Key Points:**
-- Non-exclusive, non-transferable, royalty-free license for academic, non-commercial purposes only
-- Software is provided "AS IS" with no warranties
-- Redistribution and commercial use are prohibited
-- Users must cite the associated publications and the University of Zurich
-- The University of Zurich retains all title and intellectual property rights
-
-For the complete terms and conditions, refer to [LICENSE.txt](LICENSE.txt).
