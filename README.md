@@ -37,8 +37,6 @@ Please cite the following publications when using this software:
 
 Da Mutten R, Zanier O, Bottini M, Baumann Y, Ciobanu-Caraus O, Regli L, Serra C, Staartjes VE. Fully automated grading of pituitary adenoma. *Neuroimage Rep.* 2025 Jan 29;5(1):100233. doi: 10.1016/j.ynirep.2025.100233
 
-Da Mutten R, Zanier O, Regli L, Serra C, Staartjes V. Ventricular Volume and Width Quantification using Deep Convolutional Networks Incorporated in a Graphical User Interface. *Brain and Spine*. https://doi.org/10.1016/j.bas.2024.102848
-
 Da Mutten R, Zanier O, Ciobanu-Caraus O, Voglis S, Hugelshofer M, Pangalu A, Regli L, Serra C, Staartjes VE. Automated volumetric assessment of pituitary adenoma. *Endocrine* 83:171-177 (2024). https://doi.org/10.1007/s12020-023-03548-6
 
 ## License
